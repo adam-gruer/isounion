@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+project.Rcheck/
+project*.tar.gz
+project*.tgz

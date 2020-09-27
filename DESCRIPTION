@@ -1,0 +1,15 @@
+Package: isounion
+Title: Find the union of you and your friends' bubbles
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adam",
+           family = "Gruer",
+           role = c("aut", "cre"),
+           email = "adamgruer@icloud.com"))
+Description: Shiny app for finding the union of you and your freinds' bubbles.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
